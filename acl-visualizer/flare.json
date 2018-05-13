@@ -1,0 +1,35 @@
+{
+    "name": "Main Directory",
+    "children": [
+        {
+            "name": "Sub Directory",
+            "children": [
+                {
+                    "name": "Sub Folder",
+                    "children": [
+                        {"name": "Student One Contents", "size": 3938},
+                        {"name": "Student Two Contents", "size": 3812},
+                        {"name": "Student Three Contents", "size": 6714},
+                        {"name": "Student Four Contents", "size": 743}
+                    ]
+                },
+                {
+                    "name": "Sub Folder 2",
+                    "children": [
+                        {"name": "Student One Alpha Contents", "size": 3534},
+                        {"name": "Student Two Alpha Contents", "size": 5731},
+                        {"name": "Student Three Alpha Contents", "size": 7840},
+                        {"name": "Student Four Alpha Contents", "size": 5914},
+                        {"name": "Student Five Alpha Contents", "size": 3416}
+                    ]
+                },
+                {
+                    "name": "Root Directory",
+                    "children": [
+                        {"name": "Admin Contents", "size": 7074}
+                    ]
+                }
+            ]
+        }
+    ]
+}
